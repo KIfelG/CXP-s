@@ -11,7 +11,8 @@ Ideia de Marcio Brener, esse git apenas mostra um concept art do site Central XB
 Designer feito no [Figma](https://www.figma.com/file/PJsqayOqJ7aGdARDB8EUJD/Central-Xbox?node-id=0%3A1) e código no Visual Studio Code
 
 ## Download Zip
-Clique aqui ---> [CXP's](https://github.com/kifel/CXP-s/archive/main.zip)
+Clique aqui ---> [CXP's](https://github.com/kifel/CXP-s/archive/main.zip).
+Extraia a pasta e abra o Index.html
 
 ## Imagens do Concept Art
 
