@@ -6,7 +6,7 @@ Cxp’s é nova moeda da Central Xbox, com ela você participar de sorteios excl
 
 ## Descripton
 Projeto para demonstração de possível designer de site, não responsivel (Atualmente).
-Ideia de Marcio Brener, esse git apenas mostra um concept art do site Central XBox
+A Cxp's foi pensada e idealizada por Marcio Brener, esse git apenas mostra um concept art do site Central XBox feito e pesando por kifel
 
 Designer feito no [Figma](https://www.figma.com/file/PJsqayOqJ7aGdARDB8EUJD/Central-Xbox?node-id=0%3A1) e código no Visual Studio Code
 
