@@ -15,7 +15,7 @@ Clique aqui ---> [CXP's](https://github.com/kifel/CXP-s/archive/main.zip)
 
 ## Imagens do Concept Art
 
-Imagem 2 partes
+ATENÇÃO SÃO DUAS IMAGENS
 ![alt text][1]
 ![alt text][2]
 
